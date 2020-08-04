@@ -1,3 +1,4 @@
+2015:
 August:
     Fri 14 -- "The Caliber of People"
     ...
@@ -122,6 +123,7 @@ December:  ?  |
     Tue 29 ?
     Wed 30 ?
     Thu 31 ?
+2016:
 January:
     Fri 01
     Sat 02
@@ -131,7 +133,30 @@ January:
     Wed 06
     Thu 07
     Fri 08 -- "Building Foundations"
-    ...
+    Sat 09
+    Sun 10
+    Mon 11
+    Tue 12 ?
+    Wed 13 ?
+    Thu 14 ?  ?
+    Fri 15 ?  ?
+    Sat 16 ?  ?
+    Sun 17 ?- ?  "Veterinary Checkup" (~10days + ~3weeks after "Growing Skills")
+    Mon 18 ?  ?
+    Tue 19 ?  ?- "Building a Business" (2 days after "Veterinary Checkup")
+           ?  ?- "Our Annoyances" (same day as "Building a Business")
+    Wed 20 ?  ?
+    Thu 21 ?  ?
+    Fri 22 ?  ?
+    Sat 23 ?  ?
+    Sun 24 ?  ?
+    Mon 25 ?  ?
+    Tue 26    ?
+    Wed 27    ?
+    Thu 28
+    Fri 29
+    Sat 30
+    Sun 31
 February:
     ...
 March:

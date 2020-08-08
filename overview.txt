@@ -135,28 +135,16 @@ January:
     Fri 08 -- "Building Foundations"
     Sat 09
     Sun 10
-    Mon 11
-    Tue 12 ?
-    Wed 13 ?
-    Thu 14 ?  ?
-    Fri 15 ?  ?
-    Sat 16 ?  ?
-    Sun 17 ?- ?  "Veterinary Checkup" (~10days + ~3weeks after "Growing Skills")
-    Mon 18 ?  ?
-    Tue 19 ?  ?- "Building a Business" (2 days after "Veterinary Checkup")
-           ?  ?- "Our Annoyances" (same day as "Building a Business")
-    Wed 20 ?  ?
-    Thu 21 ?  ?
-    Fri 22 ?  ?
-    Sat 23 ?  ?
-    Sun 24 ?  ?
-    Mon 25 ?  ?
-    Tue 26    ?
-    Wed 27    ?
-    Thu 28
-    Fri 29
-    Sat 30
-    Sun 31
+    Mon 11 -- "Veterinary Checkup"
+    Tue 12
+    Wed 13 -- "Building a Business"
+           -- "Our Annoyances"
+    Thu 14 -- "Protecting the Neighborhood"
+    Fri 15
+    Sat 16 -- "Another Complication"
+    Sun 17 -- "New Arrivals"
+    Mon 18
+    ...
 February:
     ...
 March:
@@ -183,5 +171,3 @@ Not (yet?) included above:
 "Controlling a Fight"
 "Silent Alarm"
 "Ice Cream and Ocean Waves"
-"Protecting the Neighborhood"
-"Another Complication"

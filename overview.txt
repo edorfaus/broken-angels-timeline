@@ -125,21 +125,21 @@ December:  ?  |
     Thu 31 ?
 2016:
 January:
-    Fri 01
-    Sat 02
-    Sun 03
-    Mon 04
-    Tue 05
-    Wed 06
-    Thu 07
-    Fri 08 -- "Building Foundations"
-    Sat 09
-    Sun 10
-    Mon 11 -- "Veterinary Checkup"
-    Tue 12
-    Wed 13 -- "Building a Business"
-           -- "Our Annoyances"
-    Thu 14 -- "Protecting the Neighborhood"
+    Fri 01       ?
+    Sat 02       ?
+    Sun 03    ?  ?
+    Mon 04 ?  ?  ?
+    Tue 05 ?  ?  ?
+    Wed 06 ?  ?  ?
+    Thu 07 ?  ?  ?
+    Fri 08 ?  ?  ?  -- "Building Foundations"
+    Sat 09 ?  ?  ?
+    Sun 10 ?  ?  ?
+    Mon 11 ?  ?  ?- "Veterinary Checkup"
+    Tue 12 ?  ?
+    Wed 13 ?  ?- "Building a Business"
+           ?  ?- "Our Annoyances"
+    Thu 14 ?- "Protecting the Neighborhood"
     Fri 15
     Sat 16 -- "Another Complication"
     Sun 17 -- "New Arrivals"

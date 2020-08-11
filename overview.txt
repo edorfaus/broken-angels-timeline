@@ -143,6 +143,7 @@ January:
     Fri 15
     Sat 16 -- "Another Complication"
     Sun 17 -- "New Arrivals"
+           -- "Brainstorming and Bacon Shortbread Cookies"
     Mon 18
     ...
 February:
